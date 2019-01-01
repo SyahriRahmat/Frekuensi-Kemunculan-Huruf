@@ -1,0 +1,3 @@
+nama	= syahri rahmat
+jurusan	= teknik informatika
+zodiac	= capricorn
